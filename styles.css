@@ -199,10 +199,10 @@ textarea:focus {
 
 /* Link states */
 a:link {
-    color: #005b9f;
+    color: #4fcc4b;
 }
 a:visited {
-    color: #3a5d8f;
+    color: #ca1177;
 }
 a:hover {
     color: #ffb703;
@@ -232,15 +232,15 @@ label {
     .heroSection {
         padding: 20px;
     }
-
+    
     .newsArticle {
         column-count: 1;
     }
-
+    
     #mainHeader h1 {
         font-size: 2rem;
     }
-
+    
     body {
         font-size: 0.98rem;
     }
